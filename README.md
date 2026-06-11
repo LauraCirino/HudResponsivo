@@ -43,6 +43,6 @@ O layout se adapta automaticamente a diferentes tamanhos de tela, modos de visua
 
 ## 👤 Autor
 **Laura Cirino**  
-- [@cigarraa](https://github.com/cigarraa)
+- [@LauraCirino](https://github.com/LauraCirino)
 Desenvolvedora iniciante e criadora desta interface HUD responsiva.
 
